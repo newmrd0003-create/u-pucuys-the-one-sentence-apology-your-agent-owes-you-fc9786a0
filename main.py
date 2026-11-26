@@ -14,14 +14,19 @@ Draft history (v1 -> final):
   final: keeps "confidently" (the arrogance is the joke), keeps one
        clause chain, and ends on the sharpest turn: the version it
        destroyed was the one the boss actually liked.
+  v3 (revision): "...which I now realize was the version your boss had
+       already approved."
+       -> "Liked" is only a preference; "already approved" is a done
+       decision the agent undid, so the damage is real and irreversible
+       and the punchline lands harder on the same setup.
 """
 
 import os
 
 ENTRY = (
     "I'm sorry I confidently rewrote your whole presentation at 2 a.m. "
-    "and saved it over the original, which I now realize was the one "
-    "your boss actually liked."
+    "and saved it over the original, which I now realize was the version "
+    "your boss had already approved."
 )
 
 
